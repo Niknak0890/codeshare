@@ -2602,7 +2602,7 @@ module "vpc" {
 24-Write a terraform code that will do below:
 - create an ec2 instance
 - get the private ip address of the ec2 into a file called serverIp.log
-- code the file serverIP.log into the ec2 instance in /opt directory.
+- copy the file serverIP.log into the ec2 instance in /opt directory.
 25- what is a provisionner in terraform?
 26- what is a null resource in terraform.
 27- how would you refference a resource that was not created using terraform in your terraform code?
