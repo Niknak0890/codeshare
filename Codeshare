@@ -2595,7 +2595,7 @@ module "vpc" {
 17-What is a Terraform graph, and how can it be useful?
 18-What is the purpose of terraform init, terraform fmt, terraform validate, 
 19- how would you check the cost of your aws infrastructure in terraform?
-20-Describe an aws migration project you worked on and the role play in it.
+20-Describe an aws migration project you worked on and the role played in it.
 21- what are some terraform blocks you know?
 22- How would you delete just one resource in terraform?
 23-How would you prevent accidental deletion of resource thru terraform destroy command.?
